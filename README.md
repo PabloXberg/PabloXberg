@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloxberg&label=Profile%20views&color=0e75b6&style=flat" alt="pabloxberg" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloxberg&theme=dracula" alt="pabloxberg" /></a> </p>
+
 - 🌱 I’m currently learning **Full-Stack Developer, in Code Academy Berlin** <br/>
 
 - 💬 Ask me about **CSS, HTML, Javascript, React.js, C, C++**<br/>
@@ -24,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloxberg&show_icons=true&locale=en&theme=dracula" alt="pabloxberg" /></p>
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloxberg&theme=dracula" alt="pabloxberg" /></a> </p>
