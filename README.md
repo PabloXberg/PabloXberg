@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Developer, in Code Academy Berlin** <br/>
 
-- 💬 Ask me about **CSS, HTML, Javascript, React.js, C, C++**<br/>
+- 💬 Ask me about anything! Happy to help, specially with **CSS, HTML, Javascript, React.js**<br/>
 
 - 📫 How to reach me **pablomorena@live.com, pabloxberg@gmail.com**<br/>
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo-morena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo morena" height="30" width="40" /></a>
+<!-- FACEBOOK LINK -->
 <!-- <a href="https://fb.com/pabloxberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pabloxberg" height="30" width="40" /></a>
 </p> -->
 
