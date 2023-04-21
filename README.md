@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **CSS, HTML, Javascript, React.js, C, C++**<br/>
 
-- 📫 How to reach me **pablomorena@live.com**<br/>
+- 📫 How to reach me **pablomorena@live.com, pabloxberg@gmail.com**<br/>
 
   <!-- ![Snake animation](https://github.com/arianecrestani/arianecrestani/blob/output/github-contribution-grid-snake.svg) -->
 
