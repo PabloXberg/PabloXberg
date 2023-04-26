@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pablomorena@live.com, pabloxberg@gmail.com**<br/>
 
-![Snake animation](https://github.com/PabloXberg/PabloXberg/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/PabloXberg/PabloXberg/blob/output/github-contribution-grid-snake.svg) -->
 
 ### ✍️ Random Dev Quote
 
