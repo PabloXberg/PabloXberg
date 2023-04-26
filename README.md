@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A Full-Stack Developer from Uruguay, based in Berlin, Germany...</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloxberg&label=Profile%20views&color=0e75b6&style=flat" alt="pabloxberg" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloxberg&label=Profile%20views&color=0e75b6&style=flat" alt="pabloxberg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloxberg&theme=dracula" alt="pabloxberg" /></a> </p>
 
