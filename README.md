@@ -15,7 +15,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&align=center)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&align=center&theme=dracula)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
