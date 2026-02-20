@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloxberg&theme=dracula" alt="pabloxberg" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Developer, in Code Academy Berlin** <br/>
-
-- 💬 Ask me about anything! Happy to help, specially with **CSS, HTML, Javascript, React.js**<br/>
+- 🌱 I’m currently learning **Data Science & Machine Learning, in IRONHACK Academy Berlin** <br/>
 
 - 📫 How to reach me **pablomorena@live.com, pabloxberg@gmail.com**<br/>
 
